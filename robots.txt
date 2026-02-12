@@ -1,3 +1,4 @@
 User-Agent: *
 Allow: /
 Sitemap: https://teacupsandart.com/sitemap.xml
+Llms-txt: https://teacupsandart.com/llms.txt
