@@ -15,9 +15,4 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://teacupsandart.com/cookie-policy</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
 </urlset>
