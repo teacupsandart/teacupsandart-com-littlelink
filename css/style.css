@@ -200,7 +200,7 @@ a:hover {
   	background-color:var(--button-background,transparent);
 	color:var(--button-text,#000000);
 	border:var(--button-border,none);
-	border-radius:0.5rem;
+	border-radius:9999px;
 	cursor:pointer;
 	box-sizing:border-box;
 	hyphens:auto;               	/* Delete this to remove automatic hyphen on line break */
