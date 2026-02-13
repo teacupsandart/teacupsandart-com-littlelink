@@ -301,6 +301,12 @@
 }
 
 /* Ko-fi */
+.button-gumroad {
+	--button-text:#000000;
+	--button-background:#FF90E8;
+	--button-border:none;
+}
+
 .button-ko-fi {
 	--button-text:#ffffff;
 	--button-background:#000000;
